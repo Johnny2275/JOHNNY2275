@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm JHONNI 👋
 
-<!--
-**Johnny2275/JOHNNY2275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | AI Automation Builder
 
-Here are some ideas to get you started:
+I build practical web apps and AI-powered tools that solve real problems for businesses and everyday users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- Responsive websites
+- Web apps with clean UI
+- AI automation systems for outreach, leads, and productivity
+
+## Featured Projects
+- MyCrib – Housing platform
+- Personal Portfolio – My work and projects
+- Finance Tracker – Simple expense tracking app
+- Task Manager – Productivity tool
+
+## Tech Stack
+HTML, CSS, JavaScript, Git, GitHub, AI tools, automation workflows
+
+## Links
+- Portfolio: your portfolio link
+- X: your X link
+- LinkedIn: your LinkedIn link
+- Email: your email
