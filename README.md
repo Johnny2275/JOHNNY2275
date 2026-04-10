@@ -19,7 +19,7 @@ I build practical web apps and AI-powered tools that solve real problems for bus
 HTML, CSS, JavaScript, Git, GitHub, AI tools, automation workflows
 
 ## Links
-- Portfolio: https://johnny2275.github.io/jhonnie
+- Portfolio: http://johnny2275.github.io/MyPortfolio-jhonni/
 - X: https://x.com/deyoung166
 - LinkedIn: https://linkedin.com/in/john-nwafor-359a31131
 - Email: NWAFORJOHN02@GMAIL.COM
